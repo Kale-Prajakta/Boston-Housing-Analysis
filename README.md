@@ -10,7 +10,7 @@ This project applies **Linear Regression** and **Logistic Regression** on the **
 ## 📁 Dataset
 
 - File: `HousingData.csv`
-- Source: [Boston Housing Dataset on Kaggle](https://www.kaggle.com/datasets)
+- Source: [Boston Housing Dataset on Kaggle](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
 - Target variables:
   - `MEDV` — Median value of owner-occupied homes (regression)
   - `HighPrice` — Binary label based on median `MEDV` (classification)
