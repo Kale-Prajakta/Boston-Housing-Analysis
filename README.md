@@ -1,9 +1,7 @@
 # Boston-Housing-Analysis
-Week 2 : Assignment
+
 
 # 🏡 Supervised Learning: Regression & Classification
-
-This project applies **Linear Regression** and **Logistic Regression** on the **Boston Housing dataset** to predict housing prices and classify homes as high or low value. It includes model evaluation and visualizations using `matplotlib`.
 
 ---
 
